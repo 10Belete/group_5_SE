@@ -1,0 +1,40 @@
+Group_assinment for group 5
+
+
+Instruction 
+- Write a java program and unit test in junit-5 framework for the questions listed.
+- Each problems needs to code in separate method in one java project.
+- Each group member must make an equal contribution. 
+- The project needs to be managed in version control system (git and GitHub).
+- The group leader needs to have the project manager role 
+1. Create the project central repository named like “software tools and practice project group 1/2/3.” In GitHub.
+2. The repository must be public if group member is more than four.
+3. Add another member of group as contributor in GitHub.
+4. Can merge his/her and member contribution the master/main repository.
+5. Manage code conflicts in the repository. 
+- All member contribution needs to be in their own GitHub account.
+- The owner of each code will be the student who push that code, the individual assessment for that code will be valued for the student. Don’t push other student code.
+- Members can work on separate question, but have plus point if different members contribute to the same question. 
+- Group member information and other none java code writable must be in README.md Markdown file. 
+Submission 
+- Deadline: until Jun 9, 2024 12:00 PM LT. Before deadline have a plus point. 
+
+- Any push to repository after deadline is not considered.
+- Submit only one GitHub repository, like you get last assignment.
+- Submit before deadline, even if incomplete project. 
+Assessment method  
+- 50% -- group, 
+✓ Correctly functioning of each questions along with test
+✓ Group member equal contributions.
+✓ Repository structuring, readme description, commit messages, merging, conflict resolving and the like. 
+- 50% -- individual
+✓ Correctly functioning of the question, he/she code.
+✓ Git usage, commit history, commit message, branching…
+✓ pull request, it description, merging.  
+
+Group 5 
+1. Find the Largest Element in Array
+2. Euclidean Algorithm
+3. Decimal number reversalExample. 193.56 should output 653.91.
+4. Calculates the largest prime factor of a given number.
+5. Hospital patient record crud console application, each crud needs to be in separate method.  
